@@ -33,9 +33,9 @@ Users can chat with the bot to get suggestions for:
 
   Screenshot of the Project
 
-  ![Chatbot Demo](assets/chatbot_output_1.png)
+  ![Chatbot Demo](assests/chatbot_output_1.png)
 
-  ![Chatbot Demo](assets/chatbot_output_2.png)
+  ![Chatbot Demo](assests/chatbot_output_2.png)
 
 
 Installation
