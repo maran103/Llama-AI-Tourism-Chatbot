@@ -31,6 +31,11 @@ Users can chat with the bot to get suggestions for:
 - Companions (solo/family/friends) suitable places
 - Things to do and places to visit in the selected destination
 
+  Screenshot of the Project
+
+  ![Chatbot Demo](assets/chatbot_output_1.png)
+
+  ![Chatbot Demo](assets/chatbot_output_2.png)
 
 
 Installation
